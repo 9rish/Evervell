@@ -15,5 +15,4 @@ Steps:
 **Installing PyAudio on Mac**:
 1. `brew install portaudio`
 2. `python3 -m pip install pyaudio`
-# Everw
-ell
+# Everwell
