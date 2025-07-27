@@ -1,0 +1,39 @@
+AGE: (48,)
+GENDER: Male
+
+YOU: I have stomach ache
+JARVIS: 1. Can you describe the location and intensity of the pain?
+YOU: upper abdomen very bad
+JARVIS: 2. Have you experienced any other symptoms, such as nausea, vomiting, or diarrhea?
+YOU: I have been experiencing nausea and vomiting
+JARVIS: 3. Have you recently made any changes to your diet or medications?
+YOU: 7 days have been eating meat
+JARVIS: **Medications:**
+
+* **Omeprazole 20 mg once daily:** To reduce stomach acid production and relieve pain.
+
+**Dietary Precautions:**
+
+* Avoid spicy, fatty, and acidic foods.
+* Eat small, frequent meals instead of large ones.
+* Include plenty of fiber in your diet, such as:
+    * Oatmeal
+    * Brown rice
+    * Whole-wheat bread
+    * Fruits (e.g., apples, bananas, berries)
+    * Vegetables (e.g., broccoli, carrots, spinach)
+* Drink plenty of fluids, especially water.
+
+**Lifestyle Changes:**
+
+* Quit smoking, if applicable.
+* Reduce alcohol consumption.
+* Get regular exercise.
+* Manage stress through techniques such as yoga or meditation.
+
+**Natural Medications:**
+
+* **Turmeric:** Anti-inflammatory properties. Can be added to food or taken as a supplement.
+* **Asafoetida:** Carminative properties. Can be added to food or taken as a supplement.
+* **Carom seeds:** Antispasmodic properties. Can be chewed or taken as a tea.
+* **Fennel:** Anti-nausea properties. Can be chewed or taken as a tea.
